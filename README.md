@@ -26,9 +26,6 @@ Make sure you have the following installed:
   https://github.com/faiqa-umer/Chatbot
 
  Run the chatbot:
-    ```bash
-    python chatbot.py
-    ```
 
 ---
 
